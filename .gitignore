@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Android (keep android-app/ source, ignore build artifacts)
+android-app/.gradle/
+android-app/build/
+android-app/app/build/
+android-app/local.properties
+android-app/.idea/
+android-app/*.iml
+
+# Editor
+.vscode/
+.DS_Store

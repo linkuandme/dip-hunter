@@ -1,0 +1,51 @@
+name: Refresh Dip Hunter
+
+on:
+  schedule:
+    # Every 10 min, US market hours (Mon-Fri, 13:00-21:50 UTC = 9:00-17:50 ET).
+    # GitHub cron has up to ~10 min delay during peak load; this is best-effort.
+    - cron: "*/10 13-21 * * 1-5"
+    # Also run a few times after-hours so the dashboard isn't stale on weekends.
+    - cron: "0 */4 * * *"
+  workflow_dispatch:        # allow manual trigger
+
+permissions:
+  contents: write           # commit refreshed HTML back to the repo
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install deps
+        run: pip install yfinance pandas numpy lxml html5lib
+
+      - name: Refresh data
+        run: python refresh_data.py --top 50 --buys 25 --period 2y
+        env:
+          PYTHONUNBUFFERED: "1"
+
+      - name: Commit refreshed dashboard
+        run: |
+          git config user.name  "dip-hunter-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add dip_hunter.html top50.json strong_buys.json
+          if git diff --staged --quiet; then
+            echo "No changes — skipping commit."
+          else
+            git commit -m "auto-refresh: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

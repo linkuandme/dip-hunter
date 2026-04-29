@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dip Hunter</string>
+
+    <!--
+      EDIT THIS URL BEFORE BUILDING.
+      Point it at your published GitHub Pages dashboard, e.g.
+        https://YOUR_GH_USERNAME.github.io/YOUR_REPO/dip_hunter.html
+    -->
+    <string name="dashboard_url" translatable="false">https://YOUR_GH_USERNAME.github.io/YOUR_REPO/dip_hunter.html</string>
+</resources>

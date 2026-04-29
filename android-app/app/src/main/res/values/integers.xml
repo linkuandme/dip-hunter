@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Auto-reload interval in milliseconds. 600000 = 10 minutes. -->
+    <integer name="reload_interval_ms">600000</integer>
+</resources>
