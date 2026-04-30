@@ -16,6 +16,11 @@ concurrency:
   group: refresh
   cancel-in-progress: false
 
+env:
+  # Opt into Node 24 runtime now (default after 2026-06-02). Silences the
+  # "Node.js 20 actions are deprecated" warning emitted by the runner.
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
