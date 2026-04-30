@@ -36,7 +36,7 @@ jobs:
           cache: pip
 
       - name: Install deps
-        run: pip install yfinance pandas numpy lxml html5lib
+        run: pip install -r requirements.txt
 
       - name: Refresh data
         run: python refresh_data.py --top 50 --buys 25 --period 2y
