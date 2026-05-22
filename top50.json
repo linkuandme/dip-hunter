@@ -640,26 +640,6 @@
     "target_30d": 103.93
   },
   {
-    "ticker": "MSFT",
-    "company": "MSFT",
-    "sector": "\u2014",
-    "last_close": 419.09,
-    "prev_close": 421.06,
-    "drop_pct": -0.47,
-    "volume": 31024851,
-    "vol_ratio": 0.89,
-    "rsi": 54.8,
-    "macd": 3.9213,
-    "bb_pos": 0.58,
-    "score": 5.2,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 356.28,
-    "high_52wk": 552.24,
-    "target_5d": 419.68,
-    "target_30d": 420.46
-  },
-  {
     "ticker": "KO",
     "company": "KO",
     "sector": "\u2014",
@@ -758,6 +738,26 @@
     "high_52wk": 169.96,
     "target_5d": 148.98,
     "target_30d": 149.16
+  },
+  {
+    "ticker": "MSFT",
+    "company": "MSFT",
+    "sector": "\u2014",
+    "last_close": 419.09,
+    "prev_close": 420.15,
+    "drop_pct": -0.25,
+    "volume": 31024851,
+    "vol_ratio": 0.89,
+    "rsi": 55.5,
+    "macd": 3.9851,
+    "bb_pos": 0.612,
+    "score": 4.8,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 355.51,
+    "high_52wk": 551.05,
+    "target_5d": 419.41,
+    "target_30d": 419.83
   },
   {
     "ticker": "SOFI",
