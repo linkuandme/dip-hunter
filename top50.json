@@ -840,6 +840,26 @@
     "target_30d": 24.89
   },
   {
+    "ticker": "META",
+    "company": "META",
+    "sector": "\u2014",
+    "last_close": 635.29,
+    "prev_close": 635.26,
+    "drop_pct": 0.0,
+    "volume": 16411778,
+    "vol_ratio": 0.98,
+    "rsi": 56.9,
+    "macd": -2.354,
+    "bb_pos": 1.116,
+    "score": 12.9,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 520.26,
+    "high_52wk": 794.38,
+    "target_5d": 635.3,
+    "target_30d": 635.31
+  },
+  {
     "ticker": "AMGN",
     "company": "AMGN",
     "sector": "\u2014",
@@ -978,25 +998,5 @@
     "high_52wk": 408.61,
     "target_5d": 390.52,
     "target_30d": 391.04
-  },
-  {
-    "ticker": "CVX",
-    "company": "CVX",
-    "sector": "\u2014",
-    "last_close": 183.03,
-    "prev_close": 182.4,
-    "drop_pct": 0.35,
-    "volume": 8719491,
-    "vol_ratio": 0.86,
-    "rsi": 43.0,
-    "macd": -0.5316,
-    "bb_pos": 0.275,
-    "score": 12.8,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 129.77,
-    "high_52wk": 212.76,
-    "target_5d": 183.22,
-    "target_30d": 183.47
   }
 ]
