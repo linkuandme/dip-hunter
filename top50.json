@@ -860,26 +860,6 @@
     "target_30d": 124.53
   },
   {
-    "ticker": "BLK",
-    "company": "BLK",
-    "sector": "\u2014",
-    "last_close": 995.6,
-    "prev_close": 1022.56,
-    "drop_pct": -2.64,
-    "volume": 710735,
-    "vol_ratio": 1.05,
-    "rsi": 38.5,
-    "macd": -10.773,
-    "bb_pos": 0.042,
-    "score": 30.7,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 917.39,
-    "high_52wk": 1207.31,
-    "target_5d": 1003.47,
-    "target_30d": 1013.97
-  },
-  {
     "ticker": "PANW",
     "company": "PANW",
     "sector": "\u2014",
@@ -958,6 +938,26 @@
     "high_52wk": 150.7,
     "target_5d": 138.69,
     "target_30d": 139.9
+  },
+  {
+    "ticker": "BLK",
+    "company": "BLK",
+    "sector": "\u2014",
+    "last_close": 995.6,
+    "prev_close": 1016.83,
+    "drop_pct": -2.09,
+    "volume": 710735,
+    "vol_ratio": 1.05,
+    "rsi": 39.5,
+    "macd": -10.2676,
+    "bb_pos": 0.075,
+    "score": 27.9,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 912.25,
+    "high_52wk": 1200.54,
+    "target_5d": 1001.84,
+    "target_30d": 1010.15
   },
   {
     "ticker": "XLY",
