@@ -320,26 +320,6 @@
     "target_30d": 25.91
   },
   {
-    "ticker": "GOOGL",
-    "company": "GOOGL",
-    "sector": "\u2014",
-    "last_close": 363.31,
-    "prev_close": 368.53,
-    "drop_pct": -1.42,
-    "volume": 27883598,
-    "vol_ratio": 0.89,
-    "rsi": 43.4,
-    "macd": 0.5633,
-    "bb_pos": 0.107,
-    "score": 12.2,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 161.64,
-    "high_52wk": 408.61,
-    "target_5d": 364.85,
-    "target_30d": 366.91
-  },
-  {
     "ticker": "IBM",
     "company": "IBM",
     "sector": "\u2014",
@@ -358,6 +338,26 @@
     "high_52wk": 332.46,
     "target_5d": 282.01,
     "target_30d": 283.59
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "GOOGL",
+    "sector": "\u2014",
+    "last_close": 363.31,
+    "prev_close": 368.31,
+    "drop_pct": -1.36,
+    "volume": 27883598,
+    "vol_ratio": 0.89,
+    "rsi": 43.5,
+    "macd": 0.5802,
+    "bb_pos": 0.11,
+    "score": 11.9,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 161.54,
+    "high_52wk": 408.37,
+    "target_5d": 364.79,
+    "target_30d": 366.76
   },
   {
     "ticker": "LOW",
