@@ -780,6 +780,26 @@
     "target_30d": 108.28
   },
   {
+    "ticker": "MCD",
+    "company": "MCD",
+    "sector": "\u2014",
+    "last_close": 277.78,
+    "prev_close": 279.84,
+    "drop_pct": -0.74,
+    "volume": 3782400,
+    "vol_ratio": 0.87,
+    "rsi": 45.7,
+    "macd": -3.4094,
+    "bb_pos": 0.599,
+    "score": 25.4,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 270.15,
+    "high_52wk": 337.56,
+    "target_5d": 278.39,
+    "target_30d": 279.21
+  },
+  {
     "ticker": "TMO",
     "company": "TMO",
     "sector": "\u2014",
@@ -978,25 +998,5 @@
     "high_52wk": 242.28,
     "target_5d": 183.76,
     "target_30d": 184.07
-  },
-  {
-    "ticker": "JPM",
-    "company": "JPM",
-    "sector": "\u2014",
-    "last_close": 311.11,
-    "prev_close": 312.37,
-    "drop_pct": -0.4,
-    "volume": 6809600,
-    "vol_ratio": 0.77,
-    "rsi": 58.1,
-    "macd": 0.8603,
-    "bb_pos": 0.947,
-    "score": 4.5,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 257.7,
-    "high_52wk": 334.16,
-    "target_5d": 311.49,
-    "target_30d": 311.99
   }
 ]
