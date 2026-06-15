@@ -800,6 +800,26 @@
     "target_30d": 55.97
   },
   {
+    "ticker": "LOW",
+    "company": "LOW",
+    "sector": "\u2014",
+    "last_close": 220.19,
+    "prev_close": 220.78,
+    "drop_pct": -0.27,
+    "volume": 2242186,
+    "vol_ratio": 0.7,
+    "rsi": 51.5,
+    "macd": -2.5362,
+    "bb_pos": 0.769,
+    "score": 23.9,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 203.4,
+    "high_52wk": 291.66,
+    "target_5d": 220.37,
+    "target_30d": 220.6
+  },
+  {
     "ticker": "WMT",
     "company": "WMT",
     "sector": "\u2014",
@@ -978,25 +998,5 @@
     "high_52wk": 56.23,
     "target_5d": 53.63,
     "target_30d": 53.71
-  },
-  {
-    "ticker": "HD",
-    "company": "HD",
-    "sector": "\u2014",
-    "last_close": 329.82,
-    "prev_close": 328.39,
-    "drop_pct": 0.44,
-    "volume": 3681100,
-    "vol_ratio": 0.7,
-    "rsi": 62.8,
-    "macd": 2.086,
-    "bb_pos": 0.985,
-    "score": 4.1,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 286.95,
-    "high_52wk": 418.06,
-    "target_5d": 330.25,
-    "target_30d": 330.83
   }
 ]
