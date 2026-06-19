@@ -100,26 +100,6 @@
     "target_30d": 190.31
   },
   {
-    "ticker": "COP",
-    "company": "COP",
-    "sector": "\u2014",
-    "last_close": 107.74,
-    "prev_close": 111.21,
-    "drop_pct": -3.12,
-    "volume": 22893000,
-    "vol_ratio": 3.31,
-    "rsi": 34.1,
-    "macd": -2.2301,
-    "bb_pos": -0.105,
-    "score": 40.9,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 83.51,
-    "high_52wk": 134.87,
-    "target_5d": 108.75,
-    "target_30d": 110.09
-  },
-  {
     "ticker": "AMT",
     "company": "AMT",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 211.48,
     "target_5d": 95.17,
     "target_30d": 95.35
+  },
+  {
+    "ticker": "XLP",
+    "company": "XLP",
+    "sector": "\u2014",
+    "last_close": 83.3,
+    "prev_close": 83.68,
+    "drop_pct": -0.45,
+    "volume": 10446700,
+    "vol_ratio": 0.81,
+    "rsi": 45.6,
+    "macd": 0.1932,
+    "bb_pos": 0.382,
+    "score": 4.7,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 74.14,
+    "high_52wk": 89.64,
+    "target_5d": 83.41,
+    "target_30d": 83.56
   }
 ]
