@@ -100,26 +100,6 @@
     "target_30d": 190.31
   },
   {
-    "ticker": "COP",
-    "company": "COP",
-    "sector": "\u2014",
-    "last_close": 107.74,
-    "prev_close": 111.21,
-    "drop_pct": -3.12,
-    "volume": 22893000,
-    "vol_ratio": 3.31,
-    "rsi": 34.1,
-    "macd": -2.2301,
-    "bb_pos": -0.105,
-    "score": 40.9,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 83.51,
-    "high_52wk": 134.87,
-    "target_5d": 108.75,
-    "target_30d": 110.09
-  },
-  {
     "ticker": "AMT",
     "company": "AMT",
     "sector": "\u2014",
@@ -158,6 +138,26 @@
     "high_52wk": 28.28,
     "target_5d": 25.42,
     "target_30d": 25.69
+  },
+  {
+    "ticker": "PM",
+    "company": "PM",
+    "sector": "\u2014",
+    "last_close": 179.44,
+    "prev_close": 184.06,
+    "drop_pct": -2.51,
+    "volume": 7435500,
+    "vol_ratio": 1.66,
+    "rsi": 50.5,
+    "macd": 1.4216,
+    "bb_pos": 0.448,
+    "score": 12.0,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 139.58,
+    "high_52wk": 193.05,
+    "target_5d": 180.79,
+    "target_30d": 182.59
   },
   {
     "ticker": "JPM",
@@ -920,26 +920,6 @@
     "target_30d": 56.43
   },
   {
-    "ticker": "PM",
-    "company": "PM",
-    "sector": "\u2014",
-    "last_close": 178.4,
-    "prev_close": 179.44,
-    "drop_pct": -0.58,
-    "volume": 11732000,
-    "vol_ratio": 2.56,
-    "rsi": 49.1,
-    "macd": 1.1382,
-    "bb_pos": 0.413,
-    "score": 13.7,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 139.58,
-    "high_52wk": 193.05,
-    "target_5d": 178.71,
-    "target_30d": 179.12
-  },
-  {
     "ticker": "ADBE",
     "company": "ADBE",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 211.48,
     "target_5d": 95.17,
     "target_30d": 95.35
+  },
+  {
+    "ticker": "COP",
+    "company": "COP",
+    "sector": "\u2014",
+    "last_close": 111.21,
+    "prev_close": 111.34,
+    "drop_pct": -0.12,
+    "volume": 7002200,
+    "vol_ratio": 1.02,
+    "rsi": 38.7,
+    "macd": -1.7642,
+    "bb_pos": 0.055,
+    "score": 14.0,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 83.51,
+    "high_52wk": 134.87,
+    "target_5d": 111.25,
+    "target_30d": 111.3
   }
 ]
