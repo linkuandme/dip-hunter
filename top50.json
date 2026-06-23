@@ -280,6 +280,26 @@
     "target_30d": 126.98
   },
   {
+    "ticker": "SNOW",
+    "company": "SNOW",
+    "sector": "\u2014",
+    "last_close": 226.59,
+    "prev_close": 232.29,
+    "drop_pct": -2.45,
+    "volume": 5987200,
+    "vol_ratio": 0.54,
+    "rsi": 55.6,
+    "macd": 14.9326,
+    "bb_pos": 0.446,
+    "score": 6.4,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 118.3,
+    "high_52wk": 284.99,
+    "target_5d": 228.26,
+    "target_30d": 230.48
+  },
+  {
     "ticker": "ZM",
     "company": "ZM",
     "sector": "\u2014",
@@ -978,25 +998,5 @@
     "high_52wk": 78.82,
     "target_5d": 42.39,
     "target_30d": 42.46
-  },
-  {
-    "ticker": "HON",
-    "company": "HON",
-    "sector": "\u2014",
-    "last_close": 228.11,
-    "prev_close": 229.01,
-    "drop_pct": -0.39,
-    "volume": 4028900,
-    "vol_ratio": 0.75,
-    "rsi": 55.4,
-    "macd": 1.4145,
-    "bb_pos": 0.582,
-    "score": 4.3,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 184.82,
-    "high_52wk": 246.82,
-    "target_5d": 228.38,
-    "target_30d": 228.74
   }
 ]
