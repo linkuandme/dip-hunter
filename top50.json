@@ -1,25 +1,5 @@
 [
   {
-    "ticker": "SLV",
-    "company": "SLV",
-    "sector": "\u2014",
-    "last_close": 51.78,
-    "prev_close": 55.73,
-    "drop_pct": -7.09,
-    "volume": 49435250,
-    "vol_ratio": 2.29,
-    "rsi": 27.1,
-    "macd": -3.3069,
-    "bb_pos": -0.07,
-    "score": 50.1,
-    "action": "WATCH",
-    "action_color": "#ffd700",
-    "low_52wk": 32.06,
-    "high_52wk": 109.83,
-    "target_5d": 52.88,
-    "target_30d": 54.35
-  },
-  {
     "ticker": "HOOD",
     "company": "HOOD",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 274.48,
     "target_5d": 152.96,
     "target_30d": 153.22
+  },
+  {
+    "ticker": "QQQ",
+    "company": "QQQ",
+    "sector": "\u2014",
+    "last_close": 710.62,
+    "prev_close": 713.65,
+    "drop_pct": -0.42,
+    "volume": 39714509,
+    "vol_ratio": 0.79,
+    "rsi": 48.0,
+    "macd": 6.2634,
+    "bb_pos": 0.248,
+    "score": 4.6,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 533.7,
+    "high_52wk": 747.83,
+    "target_5d": 711.53,
+    "target_30d": 712.73
   }
 ]
