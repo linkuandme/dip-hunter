@@ -680,26 +680,6 @@
     "target_30d": 61.12
   },
   {
-    "ticker": "VTI",
-    "company": "VTI",
-    "sector": "\u2014",
-    "last_close": 362.22,
-    "prev_close": 363.98,
-    "drop_pct": -0.48,
-    "volume": 2532443,
-    "vol_ratio": 0.68,
-    "rsi": 46.3,
-    "macd": 0.6491,
-    "bb_pos": 0.227,
-    "score": 4.1,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 296.59,
-    "high_52wk": 374.7,
-    "target_5d": 362.75,
-    "target_30d": 363.45
-  },
-  {
     "ticker": "XLE",
     "company": "XLE",
     "sector": "\u2014",
@@ -798,6 +778,26 @@
     "high_52wk": 78.03,
     "target_5d": 40.79,
     "target_30d": 40.85
+  },
+  {
+    "ticker": "VTI",
+    "company": "VTI",
+    "sector": "\u2014",
+    "last_close": 362.22,
+    "prev_close": 362.94,
+    "drop_pct": -0.2,
+    "volume": 2532443,
+    "vol_ratio": 0.67,
+    "rsi": 47.6,
+    "macd": 0.7301,
+    "bb_pos": 0.277,
+    "score": 3.7,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 295.74,
+    "high_52wk": 373.63,
+    "target_5d": 362.43,
+    "target_30d": 362.72
   },
   {
     "ticker": "WMT",
