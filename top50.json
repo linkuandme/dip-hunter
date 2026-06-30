@@ -740,26 +740,6 @@
     "target_30d": 83.75
   },
   {
-    "ticker": "XLP",
-    "company": "XLP",
-    "sector": "\u2014",
-    "last_close": 84.37,
-    "prev_close": 84.71,
-    "drop_pct": -0.4,
-    "volume": 10163200,
-    "vol_ratio": 0.77,
-    "rsi": 54.0,
-    "macd": 0.2509,
-    "bb_pos": 0.674,
-    "score": 4.4,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 73.63,
-    "high_52wk": 89.02,
-    "target_5d": 84.47,
-    "target_30d": 84.61
-  },
-  {
     "ticker": "ZM",
     "company": "ZM",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 134.12,
     "target_5d": 73.79,
     "target_30d": 73.8
+  },
+  {
+    "ticker": "BAC",
+    "company": "BAC",
+    "sector": "\u2014",
+    "last_close": 57.88,
+    "prev_close": 57.88,
+    "drop_pct": 0.0,
+    "volume": 28914800,
+    "vol_ratio": 0.73,
+    "rsi": 72.0,
+    "macd": 1.6035,
+    "bb_pos": 0.78,
+    "score": 3.6,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 43.8,
+    "high_52wk": 59.2,
+    "target_5d": 57.88,
+    "target_30d": 57.88
   }
 ]
