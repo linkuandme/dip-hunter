@@ -880,26 +880,6 @@
     "target_30d": 400.77
   },
   {
-    "ticker": "VZ",
-    "company": "VZ",
-    "sector": "\u2014",
-    "last_close": 42.12,
-    "prev_close": 42.24,
-    "drop_pct": -0.28,
-    "volume": 27000891,
-    "vol_ratio": 0.75,
-    "rsi": 34.3,
-    "macd": -1.2682,
-    "bb_pos": 0.203,
-    "score": 13.2,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 37.18,
-    "high_52wk": 50.91,
-    "target_5d": 42.16,
-    "target_30d": 42.2
-  },
-  {
     "ticker": "VLO",
     "company": "VLO",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 388.36,
     "target_5d": 363.46,
     "target_30d": 363.55
+  },
+  {
+    "ticker": "SOXX",
+    "company": "SOXX",
+    "sector": "\u2014",
+    "last_close": 581.34,
+    "prev_close": 581.7,
+    "drop_pct": -0.06,
+    "volume": 5777914,
+    "vol_ratio": 0.54,
+    "rsi": 50.2,
+    "macd": 4.4749,
+    "bb_pos": 0.331,
+    "score": 2.8,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 231.25,
+    "high_52wk": 655.95,
+    "target_5d": 581.45,
+    "target_30d": 581.59
   }
 ]
