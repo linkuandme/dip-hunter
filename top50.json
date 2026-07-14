@@ -500,26 +500,6 @@
     "target_30d": 84.23
   },
   {
-    "ticker": "MCD",
-    "company": "MCD",
-    "sector": "\u2014",
-    "last_close": 268.94,
-    "prev_close": 272.61,
-    "drop_pct": -1.35,
-    "volume": 3828332,
-    "vol_ratio": 0.79,
-    "rsi": 41.4,
-    "macd": -1.6098,
-    "bb_pos": 0.258,
-    "score": 26.0,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 264.53,
-    "high_52wk": 337.56,
-    "target_5d": 270.03,
-    "target_30d": 271.47
-  },
-  {
     "ticker": "ABBV",
     "company": "ABBV",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 148.88,
     "target_5d": 141.93,
     "target_30d": 142.16
+  },
+  {
+    "ticker": "AMT",
+    "company": "AMT",
+    "sector": "\u2014",
+    "last_close": 168.83,
+    "prev_close": 169.5,
+    "drop_pct": -0.4,
+    "volume": 1431146,
+    "vol_ratio": 0.39,
+    "rsi": 44.2,
+    "macd": -3.7372,
+    "bb_pos": 0.405,
+    "score": 22.5,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 160.06,
+    "high_52wk": 225.61,
+    "target_5d": 169.03,
+    "target_30d": 169.3
   }
 ]
