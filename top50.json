@@ -660,26 +660,6 @@
     "target_30d": 167.39
   },
   {
-    "ticker": "ABBV",
-    "company": "ABBV",
-    "sector": "\u2014",
-    "last_close": 244.11,
-    "prev_close": 244.78,
-    "drop_pct": -0.27,
-    "volume": 3644140,
-    "vol_ratio": 0.38,
-    "rsi": 55.2,
-    "macd": 6.6002,
-    "bb_pos": 0.511,
-    "score": 2.3,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 180.35,
-    "high_52wk": 261.64,
-    "target_5d": 244.31,
-    "target_30d": 244.58
-  },
-  {
     "ticker": "QQQ",
     "company": "QQQ",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 258.86,
     "target_5d": 222.89,
     "target_30d": 222.95
+  },
+  {
+    "ticker": "ARKK",
+    "company": "ARKK",
+    "sector": "\u2014",
+    "last_close": 79.6,
+    "prev_close": 79.52,
+    "drop_pct": 0.1,
+    "volume": 3847038,
+    "vol_ratio": 0.6,
+    "rsi": 51.1,
+    "macd": 0.6299,
+    "bb_pos": 0.494,
+    "score": 3.2,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 62.94,
+    "high_52wk": 92.65,
+    "target_5d": 79.62,
+    "target_30d": 79.66
   }
 ]
