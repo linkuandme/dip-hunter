@@ -300,26 +300,6 @@
     "target_30d": 267.7
   },
   {
-    "ticker": "SNOW",
-    "company": "SNOW",
-    "sector": "\u2014",
-    "last_close": 271.87,
-    "prev_close": 275.94,
-    "drop_pct": -1.47,
-    "volume": 3789400,
-    "vol_ratio": 0.59,
-    "rsi": 67.6,
-    "macd": 14.2606,
-    "bb_pos": 0.809,
-    "score": 5.1,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 118.3,
-    "high_52wk": 284.99,
-    "target_5d": 273.07,
-    "target_30d": 274.68
-  },
-  {
     "ticker": "TXN",
     "company": "TXN",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 92.65,
     "target_5d": 79.62,
     "target_30d": 79.66
+  },
+  {
+    "ticker": "DKNG",
+    "company": "DKNG",
+    "sector": "\u2014",
+    "last_close": 25.25,
+    "prev_close": 25.21,
+    "drop_pct": 0.16,
+    "volume": 10515800,
+    "vol_ratio": 0.93,
+    "rsi": 45.8,
+    "macd": 0.0242,
+    "bb_pos": 0.35,
+    "score": 4.9,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 20.46,
+    "high_52wk": 48.78,
+    "target_5d": 25.26,
+    "target_30d": 25.28
   }
 ]
