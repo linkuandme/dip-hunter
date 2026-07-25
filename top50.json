@@ -280,26 +280,6 @@
     "target_30d": 283.3
   },
   {
-    "ticker": "PFE",
-    "company": "PFE",
-    "sector": "\u2014",
-    "last_close": 24.54,
-    "prev_close": 25.01,
-    "drop_pct": -1.88,
-    "volume": 22861320,
-    "vol_ratio": 0.52,
-    "rsi": 46.6,
-    "macd": -0.0629,
-    "bb_pos": 0.554,
-    "score": 13.4,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 21.97,
-    "high_52wk": 28.28,
-    "target_5d": 24.68,
-    "target_30d": 24.86
-  },
-  {
     "ticker": "META",
     "company": "META",
     "sector": "\u2014",
@@ -718,6 +698,26 @@
     "high_52wk": 302.72,
     "target_5d": 291.45,
     "target_30d": 291.81
+  },
+  {
+    "ticker": "PFE",
+    "company": "PFE",
+    "sector": "\u2014",
+    "last_close": 24.54,
+    "prev_close": 24.58,
+    "drop_pct": -0.16,
+    "volume": 22861320,
+    "vol_ratio": 0.52,
+    "rsi": 52.5,
+    "macd": -0.0282,
+    "bb_pos": 0.789,
+    "score": 10.8,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 21.6,
+    "high_52wk": 27.8,
+    "target_5d": 24.55,
+    "target_30d": 24.57
   },
   {
     "ticker": "PSX",
