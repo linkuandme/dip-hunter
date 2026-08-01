@@ -500,26 +500,6 @@
     "target_30d": 597.38
   },
   {
-    "ticker": "TXN",
-    "company": "TXN",
-    "sector": "\u2014",
-    "last_close": 275.74,
-    "prev_close": 278.76,
-    "drop_pct": -1.08,
-    "volume": 8797555,
-    "vol_ratio": 1.09,
-    "rsi": 41.8,
-    "macd": -6.1444,
-    "bb_pos": 0.187,
-    "score": 7.8,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 150.97,
-    "high_52wk": 334.03,
-    "target_5d": 276.64,
-    "target_30d": 277.83
-  },
-  {
     "ticker": "LOW",
     "company": "LOW",
     "sector": "\u2014",
@@ -918,6 +898,26 @@
     "high_52wk": 168.53,
     "target_5d": 162.84,
     "target_30d": 163.22
+  },
+  {
+    "ticker": "TXN",
+    "company": "TXN",
+    "sector": "\u2014",
+    "last_close": 275.74,
+    "prev_close": 277.34,
+    "drop_pct": -0.58,
+    "volume": 8797555,
+    "vol_ratio": 1.09,
+    "rsi": 42.5,
+    "macd": -6.001,
+    "bb_pos": 0.213,
+    "score": 6.3,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 150.2,
+    "high_52wk": 332.33,
+    "target_5d": 276.22,
+    "target_30d": 276.85
   },
   {
     "ticker": "SBUX",
