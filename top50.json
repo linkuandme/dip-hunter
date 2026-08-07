@@ -500,6 +500,26 @@
     "target_30d": 298.93
   },
   {
+    "ticker": "WMT",
+    "company": "WMT",
+    "sector": "\u2014",
+    "last_close": 111.85,
+    "prev_close": 112.07,
+    "drop_pct": -0.2,
+    "volume": 18727446,
+    "vol_ratio": 0.87,
+    "rsi": 46.8,
+    "macd": -0.9064,
+    "bb_pos": 0.48,
+    "score": 12.6,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 94.85,
+    "high_52wk": 135.16,
+    "target_5d": 111.92,
+    "target_30d": 112.0
+  },
+  {
     "ticker": "COST",
     "company": "COST",
     "sector": "\u2014",
@@ -978,25 +998,5 @@
     "high_52wk": 129.88,
     "target_5d": 121.6,
     "target_30d": 121.82
-  },
-  {
-    "ticker": "NFLX",
-    "company": "NFLX",
-    "sector": "\u2014",
-    "last_close": 74.14,
-    "prev_close": 73.69,
-    "drop_pct": 0.61,
-    "volume": 24721717,
-    "vol_ratio": 0.51,
-    "rsi": 52.3,
-    "macd": -0.4891,
-    "bb_pos": 0.739,
-    "score": 11.5,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 65.08,
-    "high_52wk": 126.71,
-    "target_5d": 74.28,
-    "target_30d": 74.46
   }
 ]
