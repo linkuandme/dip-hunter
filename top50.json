@@ -440,26 +440,6 @@
     "target_30d": 342.09
   },
   {
-    "ticker": "WFC",
-    "company": "WFC",
-    "sector": "\u2014",
-    "last_close": 87.25,
-    "prev_close": 87.59,
-    "drop_pct": -0.39,
-    "volume": 7206825,
-    "vol_ratio": 0.43,
-    "rsi": 53.4,
-    "macd": 0.8191,
-    "bb_pos": 0.56,
-    "score": 2.7,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 72.78,
-    "high_52wk": 96.73,
-    "target_5d": 87.35,
-    "target_30d": 87.49
-  },
-  {
     "ticker": "XLF",
     "company": "XLF",
     "sector": "\u2014",
@@ -718,6 +698,26 @@
     "high_52wk": 135.05,
     "target_5d": 128.64,
     "target_30d": 128.73
+  },
+  {
+    "ticker": "WFC",
+    "company": "WFC",
+    "sector": "\u2014",
+    "last_close": 87.25,
+    "prev_close": 87.09,
+    "drop_pct": 0.18,
+    "volume": 7206825,
+    "vol_ratio": 0.43,
+    "rsi": 55.2,
+    "macd": 0.8541,
+    "bb_pos": 0.656,
+    "score": 2.4,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 72.36,
+    "high_52wk": 96.18,
+    "target_5d": 87.3,
+    "target_30d": 87.36
   },
   {
     "ticker": "HYG",
