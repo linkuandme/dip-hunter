@@ -860,26 +860,6 @@
     "target_30d": 94.48
   },
   {
-    "ticker": "F",
-    "company": "F",
-    "sector": "\u2014",
-    "last_close": 13.98,
-    "prev_close": 14.0,
-    "drop_pct": -0.14,
-    "volume": 36337303,
-    "vol_ratio": 0.67,
-    "rsi": 45.4,
-    "macd": -0.0306,
-    "bb_pos": 0.263,
-    "score": 11.5,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 10.68,
-    "high_52wk": 17.78,
-    "target_5d": 13.99,
-    "target_30d": 13.99
-  },
-  {
     "ticker": "IBB",
     "company": "IBB",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 96.18,
     "target_5d": 87.47,
     "target_30d": 87.5
+  },
+  {
+    "ticker": "COIN",
+    "company": "COIN",
+    "sector": "\u2014",
+    "last_close": 148.58,
+    "prev_close": 148.68,
+    "drop_pct": -0.07,
+    "volume": 6434903,
+    "vol_ratio": 0.82,
+    "rsi": 43.7,
+    "macd": -3.9346,
+    "bb_pos": 0.238,
+    "score": 16.2,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 139.11,
+    "high_52wk": 402.16,
+    "target_5d": 148.61,
+    "target_30d": 148.65
   }
 ]
