@@ -680,26 +680,6 @@
     "target_30d": 168.07
   },
   {
-    "ticker": "DE",
-    "company": "DE",
-    "sector": "\u2014",
-    "last_close": 608.85,
-    "prev_close": 612.38,
-    "drop_pct": -0.58,
-    "volume": 802300,
-    "vol_ratio": 0.8,
-    "rsi": 50.1,
-    "macd": 4.0746,
-    "bb_pos": 0.455,
-    "score": 4.9,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 429.14,
-    "high_52wk": 670.49,
-    "target_5d": 609.9,
-    "target_30d": 611.31
-  },
-  {
     "ticker": "ABNB",
     "company": "ABNB",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 671.83,
     "target_5d": 588.21,
     "target_30d": 588.73
+  },
+  {
+    "ticker": "XLY",
+    "company": "XLY",
+    "sector": "\u2014",
+    "last_close": 118.2,
+    "prev_close": 118.45,
+    "drop_pct": -0.21,
+    "volume": 3839300,
+    "vol_ratio": 0.54,
+    "rsi": 55.3,
+    "macd": 0.9052,
+    "bb_pos": 0.673,
+    "score": 3.0,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 104.98,
+    "high_52wk": 124.51,
+    "target_5d": 118.27,
+    "target_30d": 118.37
   }
 ]
