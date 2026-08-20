@@ -620,6 +620,26 @@
     "target_30d": 28.1
   },
   {
+    "ticker": "ABBV",
+    "company": "ABBV",
+    "sector": "\u2014",
+    "last_close": 261.83,
+    "prev_close": 265.97,
+    "drop_pct": -1.56,
+    "volume": 5125696,
+    "vol_ratio": 0.96,
+    "rsi": 61.8,
+    "macd": 3.1427,
+    "bb_pos": 0.808,
+    "score": 7.1,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 189.4,
+    "high_52wk": 267.47,
+    "target_5d": 263.05,
+    "target_30d": 264.68
+  },
+  {
     "ticker": "HON",
     "company": "HON",
     "sector": "\u2014",
@@ -978,25 +998,5 @@
     "high_52wk": 246.89,
     "target_5d": 240.68,
     "target_30d": 241.59
-  },
-  {
-    "ticker": "SBUX",
-    "company": "SBUX",
-    "sector": "\u2014",
-    "last_close": 103.99,
-    "prev_close": 104.98,
-    "drop_pct": -0.94,
-    "volume": 7581159,
-    "vol_ratio": 0.99,
-    "rsi": 46.5,
-    "macd": 0.6612,
-    "bb_pos": 0.356,
-    "score": 6.3,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 76.05,
-    "high_52wk": 109.88,
-    "target_5d": 104.28,
-    "target_30d": 104.68
   }
 ]
