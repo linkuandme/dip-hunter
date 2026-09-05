@@ -80,6 +80,26 @@
     "target_30d": 81.18
   },
   {
+    "ticker": "PLTR",
+    "company": "PLTR",
+    "sector": "\u2014",
+    "last_close": 174.33,
+    "prev_close": 182.53,
+    "drop_pct": -4.49,
+    "volume": 27895300,
+    "vol_ratio": 0.78,
+    "rsi": 54.2,
+    "macd": 8.06,
+    "bb_pos": 0.374,
+    "score": 10.7,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 106.37,
+    "high_52wk": 207.52,
+    "target_5d": 176.68,
+    "target_30d": 179.81
+  },
+  {
     "ticker": "COIN",
     "company": "COIN",
     "sector": "\u2014",
@@ -978,25 +998,5 @@
     "high_52wk": 366.5,
     "target_5d": 359.66,
     "target_30d": 361.01
-  },
-  {
-    "ticker": "VZ",
-    "company": "VZ",
-    "sector": "\u2014",
-    "last_close": 50.14,
-    "prev_close": 50.59,
-    "drop_pct": -0.89,
-    "volume": 13418500,
-    "vol_ratio": 0.79,
-    "rsi": 63.0,
-    "macd": 1.0709,
-    "bb_pos": 0.7,
-    "score": 5.3,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 36.55,
-    "high_52wk": 50.93,
-    "target_5d": 50.27,
-    "target_30d": 50.45
   }
 ]
