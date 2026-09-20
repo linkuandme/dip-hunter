@@ -320,26 +320,6 @@
     "target_30d": 137.52
   },
   {
-    "ticker": "CRM",
-    "company": "CRM",
-    "sector": "\u2014",
-    "last_close": 237.92,
-    "prev_close": 242.85,
-    "drop_pct": -2.03,
-    "volume": 21947900,
-    "vol_ratio": 1.35,
-    "rsi": 53.5,
-    "macd": 11.8129,
-    "bb_pos": 0.437,
-    "score": 9.8,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 146.06,
-    "high_52wk": 267.8,
-    "target_5d": 239.37,
-    "target_30d": 241.3
-  },
-  {
     "ticker": "SLB",
     "company": "SLB",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 385.57,
     "target_5d": 368.78,
     "target_30d": 369.43
+  },
+  {
+    "ticker": "PSX",
+    "company": "PSX",
+    "sector": "\u2014",
+    "last_close": 273.13,
+    "prev_close": 274.21,
+    "drop_pct": -0.39,
+    "volume": 10170200,
+    "vol_ratio": 3.7,
+    "rsi": 77.8,
+    "macd": 11.9347,
+    "bb_pos": 0.939,
+    "score": 19.1,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 123.09,
+    "high_52wk": 277.12,
+    "target_5d": 273.45,
+    "target_30d": 273.88
   }
 ]
