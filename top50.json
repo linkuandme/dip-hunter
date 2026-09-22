@@ -180,26 +180,6 @@
     "target_30d": 204.22
   },
   {
-    "ticker": "AXP",
-    "company": "AXP",
-    "sector": "\u2014",
-    "last_close": 305.07,
-    "prev_close": 313.59,
-    "drop_pct": -2.72,
-    "volume": 5096105,
-    "vol_ratio": 1.92,
-    "rsi": 28.9,
-    "macd": -6.9777,
-    "bb_pos": -0.023,
-    "score": 48.3,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 289.26,
-    "high_52wk": 384.36,
-    "target_5d": 307.56,
-    "target_30d": 310.87
-  },
-  {
     "ticker": "RBLX",
     "company": "RBLX",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 330.09,
     "target_5d": 231.54,
     "target_30d": 231.76
+  },
+  {
+    "ticker": "TLT",
+    "company": "TLT",
+    "sector": "\u2014",
+    "last_close": 81.75,
+    "prev_close": 81.8,
+    "drop_pct": -0.06,
+    "volume": 22666158,
+    "vol_ratio": 0.71,
+    "rsi": 49.4,
+    "macd": -0.2643,
+    "bb_pos": 0.475,
+    "score": 23.6,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 80.46,
+    "high_52wk": 88.49,
+    "target_5d": 81.76,
+    "target_30d": 81.78
   }
 ]
