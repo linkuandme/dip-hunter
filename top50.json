@@ -480,26 +480,6 @@
     "target_30d": 253.18
   },
   {
-    "ticker": "AMT",
-    "company": "AMT",
-    "sector": "\u2014",
-    "last_close": 170.78,
-    "prev_close": 174.6,
-    "drop_pct": -2.19,
-    "volume": 2377896,
-    "vol_ratio": 1.04,
-    "rsi": 41.9,
-    "macd": 0.0704,
-    "bb_pos": -0.125,
-    "score": 40.0,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 160.06,
-    "high_52wk": 194.23,
-    "target_5d": 171.9,
-    "target_30d": 173.4
-  },
-  {
     "ticker": "MARA",
     "company": "MARA",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 142.35,
     "target_5d": 122.97,
     "target_30d": 123.47
+  },
+  {
+    "ticker": "SMH",
+    "company": "SMH",
+    "sector": "\u2014",
+    "last_close": 601.41,
+    "prev_close": 607.46,
+    "drop_pct": -1.0,
+    "volume": 6050308,
+    "vol_ratio": 0.94,
+    "rsi": 61.4,
+    "macd": 6.1024,
+    "bb_pos": 0.977,
+    "score": 6.2,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 312.63,
+    "high_52wk": 671.83,
+    "target_5d": 603.21,
+    "target_30d": 605.6
   }
 ]
