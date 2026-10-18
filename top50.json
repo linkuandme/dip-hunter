@@ -900,6 +900,26 @@
     "target_30d": 230.74
   },
   {
+    "ticker": "EQIX",
+    "company": "EQIX",
+    "sector": "\u2014",
+    "last_close": 985.98,
+    "prev_close": 996.26,
+    "drop_pct": -1.03,
+    "volume": 748300,
+    "vol_ratio": 1.53,
+    "rsi": 38.7,
+    "macd": -9.0844,
+    "bb_pos": 0.037,
+    "score": 19.0,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 709.79,
+    "high_52wk": 1118.65,
+    "target_5d": 989.03,
+    "target_30d": 993.1
+  },
+  {
     "ticker": "TXN",
     "company": "TXN",
     "sector": "\u2014",
@@ -978,25 +998,5 @@
     "high_52wk": 64.9,
     "target_5d": 51.37,
     "target_30d": 51.56
-  },
-  {
-    "ticker": "IBM",
-    "company": "IBM",
-    "sector": "\u2014",
-    "last_close": 232.14,
-    "prev_close": 234.12,
-    "drop_pct": -0.85,
-    "volume": 6952700,
-    "vol_ratio": 1.23,
-    "rsi": 53.8,
-    "macd": -0.6134,
-    "bb_pos": 0.807,
-    "score": 15.4,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 197.77,
-    "high_52wk": 330.09,
-    "target_5d": 232.73,
-    "target_30d": 233.51
   }
 ]
