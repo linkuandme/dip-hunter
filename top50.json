@@ -80,26 +80,6 @@
     "target_30d": 78.19
   },
   {
-    "ticker": "MARA",
-    "company": "MARA",
-    "sector": "\u2014",
-    "last_close": 7.02,
-    "prev_close": 7.25,
-    "drop_pct": -3.17,
-    "volume": 33774400,
-    "vol_ratio": 0.96,
-    "rsi": 24.3,
-    "macd": -1.1589,
-    "bb_pos": 0.148,
-    "score": 48.7,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 6.66,
-    "high_52wk": 20.47,
-    "target_5d": 7.09,
-    "target_30d": 7.18
-  },
-  {
     "ticker": "F",
     "company": "F",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 182.25,
     "target_5d": 179.88,
     "target_30d": 180.68
+  },
+  {
+    "ticker": "SBUX",
+    "company": "SBUX",
+    "sector": "\u2014",
+    "last_close": 100.8,
+    "prev_close": 101.91,
+    "drop_pct": -1.09,
+    "volume": 5917900,
+    "vol_ratio": 0.62,
+    "rsi": 61.1,
+    "macd": 0.4872,
+    "bb_pos": 0.927,
+    "score": 4.8,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 76.05,
+    "high_52wk": 109.88,
+    "target_5d": 101.13,
+    "target_30d": 101.57
   }
 ]
