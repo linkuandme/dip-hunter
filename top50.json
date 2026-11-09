@@ -960,26 +960,6 @@
     "target_30d": 343.62
   },
   {
-    "ticker": "USB",
-    "company": "USB",
-    "sector": "\u2014",
-    "last_close": 59.45,
-    "prev_close": 59.75,
-    "drop_pct": -0.5,
-    "volume": 10667100,
-    "vol_ratio": 1.41,
-    "rsi": 50.5,
-    "macd": 0.3484,
-    "bb_pos": 0.567,
-    "score": 7.8,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 43.35,
-    "high_52wk": 65.47,
-    "target_5d": 59.54,
-    "target_30d": 59.66
-  },
-  {
     "ticker": "MA",
     "company": "MA",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 681.99,
     "target_5d": 653.66,
     "target_30d": 654.94
+  },
+  {
+    "ticker": "WFC",
+    "company": "WFC",
+    "sector": "\u2014",
+    "last_close": 83.94,
+    "prev_close": 84.3,
+    "drop_pct": -0.43,
+    "volume": 11741500,
+    "vol_ratio": 0.71,
+    "rsi": 52.0,
+    "macd": 0.54,
+    "bb_pos": 0.65,
+    "score": 4.2,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 71.94,
+    "high_52wk": 95.61,
+    "target_5d": 84.05,
+    "target_30d": 84.19
   }
 ]
