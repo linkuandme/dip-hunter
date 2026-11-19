@@ -460,26 +460,6 @@
     "target_30d": 83.44
   },
   {
-    "ticker": "XLV",
-    "company": "XLV",
-    "sector": "\u2014",
-    "last_close": 181.17,
-    "prev_close": 185.24,
-    "drop_pct": -2.2,
-    "volume": 19469700,
-    "vol_ratio": 1.7,
-    "rsi": 47.5,
-    "macd": 2.878,
-    "bb_pos": 0.261,
-    "score": 11.8,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 140.81,
-    "high_52wk": 192.32,
-    "target_5d": 182.36,
-    "target_30d": 183.96
-  },
-  {
     "ticker": "C",
     "company": "C",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 719.5,
     "target_5d": 646.08,
     "target_30d": 647.86
+  },
+  {
+    "ticker": "MCD",
+    "company": "MCD",
+    "sector": "\u2014",
+    "last_close": 274.03,
+    "prev_close": 275.82,
+    "drop_pct": -0.65,
+    "volume": 4931100,
+    "vol_ratio": 0.9,
+    "rsi": 62.3,
+    "macd": 7.5668,
+    "bb_pos": 0.647,
+    "score": 5.5,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 229.2,
+    "high_52wk": 335.18,
+    "target_5d": 274.56,
+    "target_30d": 275.27
   }
 ]
