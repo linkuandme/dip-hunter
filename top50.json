@@ -320,26 +320,6 @@
     "target_30d": 411.05
   },
   {
-    "ticker": "DE",
-    "company": "DE",
-    "sector": "\u2014",
-    "last_close": 624.89,
-    "prev_close": 644.75,
-    "drop_pct": -3.08,
-    "volume": 1485700,
-    "vol_ratio": 1.35,
-    "rsi": 36.0,
-    "macd": -2.1919,
-    "bb_pos": 0.01,
-    "score": 22.7,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 450.77,
-    "high_52wk": 719.5,
-    "target_5d": 630.66,
-    "target_30d": 638.36
-  },
-  {
     "ticker": "GS",
     "company": "GS",
     "sector": "\u2014",
@@ -998,5 +978,25 @@
     "high_52wk": 30.99,
     "target_5d": 27.69,
     "target_30d": 27.9
+  },
+  {
+    "ticker": "EQIX",
+    "company": "EQIX",
+    "sector": "\u2014",
+    "last_close": 1018.05,
+    "prev_close": 1036.5,
+    "drop_pct": -1.78,
+    "volume": 769300,
+    "vol_ratio": 1.07,
+    "rsi": 49.0,
+    "macd": 8.396,
+    "bb_pos": 0.488,
+    "score": 8.0,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 706.26,
+    "high_52wk": 1113.08,
+    "target_5d": 1023.49,
+    "target_30d": 1030.74
   }
 ]
