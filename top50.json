@@ -520,26 +520,6 @@
     "target_30d": 219.12
   },
   {
-    "ticker": "VLO",
-    "company": "VLO",
-    "sector": "\u2014",
-    "last_close": 323.0,
-    "prev_close": 324.67,
-    "drop_pct": -0.51,
-    "volume": 2304300,
-    "vol_ratio": 0.74,
-    "rsi": 31.0,
-    "macd": -18.5489,
-    "bb_pos": 0.111,
-    "score": 15.9,
-    "action": "WAIT",
-    "action_color": "#ff6b6b",
-    "low_52wk": 156.99,
-    "high_52wk": 459.84,
-    "target_5d": 323.5,
-    "target_30d": 324.16
-  },
-  {
     "ticker": "SOXX",
     "company": "SOXX",
     "sector": "\u2014",
@@ -978,6 +958,26 @@
     "high_52wk": 78.77,
     "target_5d": 76.55,
     "target_30d": 76.58
+  },
+  {
+    "ticker": "MARA",
+    "company": "MARA",
+    "sector": "\u2014",
+    "last_close": 5.42,
+    "prev_close": 5.41,
+    "drop_pct": 0.18,
+    "volume": 36029400,
+    "vol_ratio": 0.87,
+    "rsi": 34.9,
+    "macd": -0.7593,
+    "bb_pos": 0.123,
+    "score": 17.4,
+    "action": "WAIT",
+    "action_color": "#ff6b6b",
+    "low_52wk": 4.92,
+    "high_52wk": 16.43,
+    "target_5d": 5.42,
+    "target_30d": 5.43
   },
   {
     "ticker": "ZM",
